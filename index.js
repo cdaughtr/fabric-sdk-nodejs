@@ -17,4 +17,4 @@
  * Licensed Materials - Property of IBM
  * © Copyright IBM Corp. 2016
  */
-module.exports = require('./lib/hfc');
+module.exports = require('./lib/FileKeyValStore');
